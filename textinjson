@@ -1,0 +1,19 @@
+[
+  {
+    "userId": 1,
+    "id": 123,
+    "title": "Smriti",
+    "body": "EEE"
+  }, {
+    "userId": 2,
+    "id": 456,
+    "title": "Dhairya",
+    "body": "ENI"
+  },
+   {
+    "userId": 3,
+    "id": 789,
+    "title": "Nitish",
+    "body": "EEE"
+  }
+  ]
